@@ -1,0 +1,1002 @@
+[
+  {
+    "update": 0,
+    "mean_episode_reward": 21.87095384429324,
+    "baseline": 21.84805092949228
+  },
+  {
+    "update": 1,
+    "mean_episode_reward": 21.866976309961274,
+    "baseline": 21.875724509278072
+  },
+  {
+    "update": 2,
+    "mean_episode_reward": 21.869629765989174,
+    "baseline": 21.882183503115115
+  },
+  {
+    "update": 3,
+    "mean_episode_reward": 21.871186257968684,
+    "baseline": 21.879047978849066
+  },
+  {
+    "update": 4,
+    "mean_episode_reward": 21.875774113671305,
+    "baseline": 21.873659919798367
+  },
+  {
+    "update": 5,
+    "mean_episode_reward": 21.87262064293227,
+    "baseline": 21.87383203270942
+  },
+  {
+    "update": 6,
+    "mean_episode_reward": 21.869845678251114,
+    "baseline": 21.878364425432345
+  },
+  {
+    "update": 7,
+    "mean_episode_reward": 21.869317196488918,
+    "baseline": 21.87350612578515
+  },
+  {
+    "update": 8,
+    "mean_episode_reward": 21.871531709282234,
+    "baseline": 21.878555403779526
+  },
+  {
+    "update": 9,
+    "mean_episode_reward": 21.86712525966837,
+    "baseline": 21.857202555625516
+  },
+  {
+    "update": 10,
+    "mean_episode_reward": 21.870942328690006,
+    "baseline": 21.868218641291964
+  },
+  {
+    "update": 11,
+    "mean_episode_reward": 21.877238554339485,
+    "baseline": 21.87555966273283
+  },
+  {
+    "update": 12,
+    "mean_episode_reward": 21.863973492171212,
+    "baseline": 21.854563667074647
+  },
+  {
+    "update": 13,
+    "mean_episode_reward": 21.871155375189165,
+    "baseline": 21.870650360664825
+  },
+  {
+    "update": 14,
+    "mean_episode_reward": 21.87326521598223,
+    "baseline": 21.868605822783923
+  },
+  {
+    "update": 15,
+    "mean_episode_reward": 21.868874364775678,
+    "baseline": 21.872954156386783
+  },
+  {
+    "update": 16,
+    "mean_episode_reward": 21.86682883830844,
+    "baseline": 21.864238819750806
+  },
+  {
+    "update": 17,
+    "mean_episode_reward": 21.870708110175844,
+    "baseline": 21.866772273579446
+  },
+  {
+    "update": 18,
+    "mean_episode_reward": 21.876596210688064,
+    "baseline": 21.874536694874635
+  },
+  {
+    "update": 19,
+    "mean_episode_reward": 21.867898968067024,
+    "baseline": 21.85960208770783
+  },
+  {
+    "update": 20,
+    "mean_episode_reward": 21.874589841773552,
+    "baseline": 21.865528785521757
+  },
+  {
+    "update": 21,
+    "mean_episode_reward": 21.87319050220154,
+    "baseline": 21.87961915901031
+  },
+  {
+    "update": 22,
+    "mean_episode_reward": 21.86812240003208,
+    "baseline": 21.883693451668446
+  },
+  {
+    "update": 23,
+    "mean_episode_reward": 21.88171353808947,
+    "baseline": 21.879033028311206
+  },
+  {
+    "update": 24,
+    "mean_episode_reward": 21.87197572225439,
+    "baseline": 21.8790165972153
+  },
+  {
+    "update": 25,
+    "mean_episode_reward": 21.869825534385676,
+    "baseline": 21.872116188306652
+  },
+  {
+    "update": 26,
+    "mean_episode_reward": 21.864798903543488,
+    "baseline": 21.8667541501511
+  },
+  {
+    "update": 27,
+    "mean_episode_reward": 21.873161386749477,
+    "baseline": 21.876505771076513
+  },
+  {
+    "update": 28,
+    "mean_episode_reward": 21.878774400419132,
+    "baseline": 21.884485548061196
+  },
+  {
+    "update": 29,
+    "mean_episode_reward": 21.868726019119837,
+    "baseline": 21.86774723464047
+  },
+  {
+    "update": 30,
+    "mean_episode_reward": 21.874535925993882,
+    "baseline": 21.872953214329566
+  },
+  {
+    "update": 31,
+    "mean_episode_reward": 21.868404170761124,
+    "baseline": 21.863354934535106
+  },
+  {
+    "update": 32,
+    "mean_episode_reward": 21.87123788915141,
+    "baseline": 21.873736657335744
+  },
+  {
+    "update": 33,
+    "mean_episode_reward": 21.867133839311027,
+    "baseline": 21.870816026761542
+  },
+  {
+    "update": 34,
+    "mean_episode_reward": 21.86982411915025,
+    "baseline": 21.854835793312393
+  },
+  {
+    "update": 35,
+    "mean_episode_reward": 21.867612014109383,
+    "baseline": 21.8599262135635
+  },
+  {
+    "update": 36,
+    "mean_episode_reward": 21.872365119311425,
+    "baseline": 21.876618833498934
+  },
+  {
+    "update": 37,
+    "mean_episode_reward": 21.872105577871856,
+    "baseline": 21.875592351451488
+  },
+  {
+    "update": 38,
+    "mean_episode_reward": 21.872400070704,
+    "baseline": 21.872991670264156
+  },
+  {
+    "update": 39,
+    "mean_episode_reward": 21.87633158666823,
+    "baseline": 21.866680927613494
+  },
+  {
+    "update": 40,
+    "mean_episode_reward": 21.869971222373,
+    "baseline": 21.87215813205891
+  },
+  {
+    "update": 41,
+    "mean_episode_reward": 21.878164946467926,
+    "baseline": 21.890982226522418
+  },
+  {
+    "update": 42,
+    "mean_episode_reward": 21.870163629407504,
+    "baseline": 21.861657683239688
+  },
+  {
+    "update": 43,
+    "mean_episode_reward": 21.87629897286095,
+    "baseline": 21.888264539226753
+  },
+  {
+    "update": 44,
+    "mean_episode_reward": 21.87321219342202,
+    "baseline": 21.872996578096036
+  },
+  {
+    "update": 45,
+    "mean_episode_reward": 21.872347338808293,
+    "baseline": 21.876643994672285
+  },
+  {
+    "update": 46,
+    "mean_episode_reward": 21.86768712978105,
+    "baseline": 21.870297338863793
+  },
+  {
+    "update": 47,
+    "mean_episode_reward": 21.87866636259728,
+    "baseline": 21.882358429582872
+  },
+  {
+    "update": 48,
+    "mean_episode_reward": 21.87550353728957,
+    "baseline": 21.879388567173116
+  },
+  {
+    "update": 49,
+    "mean_episode_reward": 21.865548846691734,
+    "baseline": 21.850772891640947
+  },
+  {
+    "update": 50,
+    "mean_episode_reward": 21.870620393461966,
+    "baseline": 21.862051912646084
+  },
+  {
+    "update": 51,
+    "mean_episode_reward": 21.867600620768997,
+    "baseline": 21.870358411248848
+  },
+  {
+    "update": 52,
+    "mean_episode_reward": 21.871620317165384,
+    "baseline": 21.869983026755083
+  },
+  {
+    "update": 53,
+    "mean_episode_reward": 21.871993767862755,
+    "baseline": 21.862193211401536
+  },
+  {
+    "update": 54,
+    "mean_episode_reward": 21.87561937837124,
+    "baseline": 21.88267320331937
+  },
+  {
+    "update": 55,
+    "mean_episode_reward": 21.868853431315568,
+    "baseline": 21.872023693192947
+  },
+  {
+    "update": 56,
+    "mean_episode_reward": 21.870815949316103,
+    "baseline": 21.864538113875902
+  },
+  {
+    "update": 57,
+    "mean_episode_reward": 21.876236631458173,
+    "baseline": 21.881937989679827
+  },
+  {
+    "update": 58,
+    "mean_episode_reward": 21.869607964505988,
+    "baseline": 21.879771366573767
+  },
+  {
+    "update": 59,
+    "mean_episode_reward": 21.87033413901184,
+    "baseline": 21.861621254119854
+  },
+  {
+    "update": 60,
+    "mean_episode_reward": 21.868398251394275,
+    "baseline": 21.871749118188852
+  },
+  {
+    "update": 61,
+    "mean_episode_reward": 21.86614381956565,
+    "baseline": 21.862712263357075
+  },
+  {
+    "update": 62,
+    "mean_episode_reward": 21.86957072698754,
+    "baseline": 21.871561428082956
+  },
+  {
+    "update": 63,
+    "mean_episode_reward": 21.87328526366894,
+    "baseline": 21.872362920356164
+  },
+  {
+    "update": 64,
+    "mean_episode_reward": 21.874116986275013,
+    "baseline": 21.86358581215667
+  },
+  {
+    "update": 65,
+    "mean_episode_reward": 21.869850858915,
+    "baseline": 21.883979168285748
+  },
+  {
+    "update": 66,
+    "mean_episode_reward": 21.87867548994663,
+    "baseline": 21.878936246184246
+  },
+  {
+    "update": 67,
+    "mean_episode_reward": 21.880468608320157,
+    "baseline": 21.880303705448394
+  },
+  {
+    "update": 68,
+    "mean_episode_reward": 21.865315820301443,
+    "baseline": 21.86554168508445
+  },
+  {
+    "update": 69,
+    "mean_episode_reward": 21.8731774716359,
+    "baseline": 21.861983325765006
+  },
+  {
+    "update": 70,
+    "mean_episode_reward": 21.865408082049935,
+    "baseline": 21.864118989280442
+  },
+  {
+    "update": 71,
+    "mean_episode_reward": 21.87034990423492,
+    "baseline": 21.884975017742033
+  },
+  {
+    "update": 72,
+    "mean_episode_reward": 21.877296426413174,
+    "baseline": 21.882249440695112
+  },
+  {
+    "update": 73,
+    "mean_episode_reward": 21.87682186145543,
+    "baseline": 21.879762748507485
+  },
+  {
+    "update": 74,
+    "mean_episode_reward": 21.866769849344607,
+    "baseline": 21.871662563133427
+  },
+  {
+    "update": 75,
+    "mean_episode_reward": 21.87569940882733,
+    "baseline": 21.87987808491833
+  },
+  {
+    "update": 76,
+    "mean_episode_reward": 21.87821066241844,
+    "baseline": 21.89343627925102
+  },
+  {
+    "update": 77,
+    "mean_episode_reward": 21.869255163871983,
+    "baseline": 21.874483938044428
+  },
+  {
+    "update": 78,
+    "mean_episode_reward": 21.882651619333814,
+    "baseline": 21.87797438281581
+  },
+  {
+    "update": 79,
+    "mean_episode_reward": 21.87113484510034,
+    "baseline": 21.858589834518416
+  },
+  {
+    "update": 80,
+    "mean_episode_reward": 21.88482635025582,
+    "baseline": 21.895918971361215
+  },
+  {
+    "update": 81,
+    "mean_episode_reward": 21.871508308823792,
+    "baseline": 21.863496894677013
+  },
+  {
+    "update": 82,
+    "mean_episode_reward": 21.8821227669919,
+    "baseline": 21.876924556211357
+  },
+  {
+    "update": 83,
+    "mean_episode_reward": 21.882859824682235,
+    "baseline": 21.886881047361793
+  },
+  {
+    "update": 84,
+    "mean_episode_reward": 21.872722567346926,
+    "baseline": 21.8791425329161
+  },
+  {
+    "update": 85,
+    "mean_episode_reward": 21.878684071019048,
+    "baseline": 21.87921626826054
+  },
+  {
+    "update": 86,
+    "mean_episode_reward": 21.873916851366307,
+    "baseline": 21.870483612807593
+  },
+  {
+    "update": 87,
+    "mean_episode_reward": 21.880430113220847,
+    "baseline": 21.879169874550435
+  },
+  {
+    "update": 88,
+    "mean_episode_reward": 21.87724658577176,
+    "baseline": 21.875741468346817
+  },
+  {
+    "update": 89,
+    "mean_episode_reward": 21.877496873063023,
+    "baseline": 21.87659696652186
+  },
+  {
+    "update": 90,
+    "mean_episode_reward": 21.870727013838454,
+    "baseline": 21.88121944938881
+  },
+  {
+    "update": 91,
+    "mean_episode_reward": 21.878170950403852,
+    "baseline": 21.874296295151265
+  },
+  {
+    "update": 92,
+    "mean_episode_reward": 21.878475053402195,
+    "baseline": 21.879303484569753
+  },
+  {
+    "update": 93,
+    "mean_episode_reward": 21.873087473761426,
+    "baseline": 21.87287363951364
+  },
+  {
+    "update": 94,
+    "mean_episode_reward": 21.877714323244508,
+    "baseline": 21.868607860688304
+  },
+  {
+    "update": 95,
+    "mean_episode_reward": 21.875490911749992,
+    "baseline": 21.883193622611326
+  },
+  {
+    "update": 96,
+    "mean_episode_reward": 21.872490296011378,
+    "baseline": 21.867351866141707
+  },
+  {
+    "update": 97,
+    "mean_episode_reward": 21.880743265260136,
+    "baseline": 21.861323036867812
+  },
+  {
+    "update": 98,
+    "mean_episode_reward": 21.872715944103316,
+    "baseline": 21.86421473107307
+  },
+  {
+    "update": 99,
+    "mean_episode_reward": 21.873544212703912,
+    "baseline": 21.891053221196348
+  },
+  {
+    "update": 100,
+    "mean_episode_reward": 21.88165594046066,
+    "baseline": 21.874332682552193
+  },
+  {
+    "update": 101,
+    "mean_episode_reward": 21.875674880064757,
+    "baseline": 21.886910946586053
+  },
+  {
+    "update": 102,
+    "mean_episode_reward": 21.87257553672121,
+    "baseline": 21.87432436128367
+  },
+  {
+    "update": 103,
+    "mean_episode_reward": 21.868868307412455,
+    "baseline": 21.863555665393807
+  },
+  {
+    "update": 104,
+    "mean_episode_reward": 21.870411570678346,
+    "baseline": 21.875598054196065
+  },
+  {
+    "update": 105,
+    "mean_episode_reward": 21.87810810228448,
+    "baseline": 21.876290789461457
+  },
+  {
+    "update": 106,
+    "mean_episode_reward": 21.87921966792064,
+    "baseline": 21.87955365330608
+  },
+  {
+    "update": 107,
+    "mean_episode_reward": 21.879344333332373,
+    "baseline": 21.881055530170052
+  },
+  {
+    "update": 108,
+    "mean_episode_reward": 21.869020056223867,
+    "baseline": 21.86275580371304
+  },
+  {
+    "update": 109,
+    "mean_episode_reward": 21.882447618056002,
+    "baseline": 21.883057608278627
+  },
+  {
+    "update": 110,
+    "mean_episode_reward": 21.871618250150156,
+    "baseline": 21.875497122110396
+  },
+  {
+    "update": 111,
+    "mean_episode_reward": 21.879075033112134,
+    "baseline": 21.879287050030698
+  },
+  {
+    "update": 112,
+    "mean_episode_reward": 21.870831905233988,
+    "baseline": 21.874668817987672
+  },
+  {
+    "update": 113,
+    "mean_episode_reward": 21.877707206162825,
+    "baseline": 21.870897430290558
+  },
+  {
+    "update": 114,
+    "mean_episode_reward": 21.871680336141214,
+    "baseline": 21.87233270520987
+  },
+  {
+    "update": 115,
+    "mean_episode_reward": 21.869951575830324,
+    "baseline": 21.876222451188493
+  },
+  {
+    "update": 116,
+    "mean_episode_reward": 21.876764638137374,
+    "baseline": 21.88610316512437
+  },
+  {
+    "update": 117,
+    "mean_episode_reward": 21.881305845289283,
+    "baseline": 21.891389803699592
+  },
+  {
+    "update": 118,
+    "mean_episode_reward": 21.871677626814424,
+    "baseline": 21.863582244889265
+  },
+  {
+    "update": 119,
+    "mean_episode_reward": 21.875241682475576,
+    "baseline": 21.884768666762568
+  },
+  {
+    "update": 120,
+    "mean_episode_reward": 21.881154350410156,
+    "baseline": 21.880819476408377
+  },
+  {
+    "update": 121,
+    "mean_episode_reward": 21.886936477759487,
+    "baseline": 21.893003407140565
+  },
+  {
+    "update": 122,
+    "mean_episode_reward": 21.878363470041343,
+    "baseline": 21.8745777455699
+  },
+  {
+    "update": 123,
+    "mean_episode_reward": 21.874448935651067,
+    "baseline": 21.87426894928017
+  },
+  {
+    "update": 124,
+    "mean_episode_reward": 21.880134716030444,
+    "baseline": 21.88398206142801
+  },
+  {
+    "update": 125,
+    "mean_episode_reward": 21.888540174670524,
+    "baseline": 21.890430172058785
+  },
+  {
+    "update": 126,
+    "mean_episode_reward": 21.873687406038087,
+    "baseline": 21.863847090161073
+  },
+  {
+    "update": 127,
+    "mean_episode_reward": 21.88053499288527,
+    "baseline": 21.87567147473503
+  },
+  {
+    "update": 128,
+    "mean_episode_reward": 21.87895943409674,
+    "baseline": 21.878762142063046
+  },
+  {
+    "update": 129,
+    "mean_episode_reward": 21.887867031080887,
+    "baseline": 21.877273222284558
+  },
+  {
+    "update": 130,
+    "mean_episode_reward": 21.871985310995996,
+    "baseline": 21.862978113585513
+  },
+  {
+    "update": 131,
+    "mean_episode_reward": 21.879005105998267,
+    "baseline": 21.879240554019212
+  },
+  {
+    "update": 132,
+    "mean_episode_reward": 21.882896728319633,
+    "baseline": 21.891629222958738
+  },
+  {
+    "update": 133,
+    "mean_episode_reward": 21.88195574746751,
+    "baseline": 21.891787151073476
+  },
+  {
+    "update": 134,
+    "mean_episode_reward": 21.88013982656349,
+    "baseline": 21.879885681047636
+  },
+  {
+    "update": 135,
+    "mean_episode_reward": 21.881118261954434,
+    "baseline": 21.887380915977886
+  },
+  {
+    "update": 136,
+    "mean_episode_reward": 21.884500301083545,
+    "baseline": 21.884448864793928
+  },
+  {
+    "update": 137,
+    "mean_episode_reward": 21.8837223602909,
+    "baseline": 21.88204614835169
+  },
+  {
+    "update": 138,
+    "mean_episode_reward": 21.88323866219267,
+    "baseline": 21.86707727856335
+  },
+  {
+    "update": 139,
+    "mean_episode_reward": 21.87719921404194,
+    "baseline": 21.891827991386897
+  },
+  {
+    "update": 140,
+    "mean_episode_reward": 21.88588141180799,
+    "baseline": 21.88377539999274
+  },
+  {
+    "update": 141,
+    "mean_episode_reward": 21.882593452825887,
+    "baseline": 21.88923373671918
+  },
+  {
+    "update": 142,
+    "mean_episode_reward": 21.874880657156666,
+    "baseline": 21.866549116470562
+  },
+  {
+    "update": 143,
+    "mean_episode_reward": 21.871630401770474,
+    "baseline": 21.867436400063383
+  },
+  {
+    "update": 144,
+    "mean_episode_reward": 21.87814922229078,
+    "baseline": 21.883942361489684
+  },
+  {
+    "update": 145,
+    "mean_episode_reward": 21.87236232929204,
+    "baseline": 21.883805372143637
+  },
+  {
+    "update": 146,
+    "mean_episode_reward": 21.87910639005603,
+    "baseline": 21.875930220668913
+  },
+  {
+    "update": 147,
+    "mean_episode_reward": 21.878126880808388,
+    "baseline": 21.876275958608034
+  },
+  {
+    "update": 148,
+    "mean_episode_reward": 21.871501806561717,
+    "baseline": 21.87454927079132
+  },
+  {
+    "update": 149,
+    "mean_episode_reward": 21.87822514494304,
+    "baseline": 21.882414624641378
+  },
+  {
+    "update": 150,
+    "mean_episode_reward": 21.88608531447033,
+    "baseline": 21.88883551518536
+  },
+  {
+    "update": 151,
+    "mean_episode_reward": 21.87930004786837,
+    "baseline": 21.874360067074118
+  },
+  {
+    "update": 152,
+    "mean_episode_reward": 21.882411514221232,
+    "baseline": 21.888038991220956
+  },
+  {
+    "update": 153,
+    "mean_episode_reward": 21.88291701944752,
+    "baseline": 21.890627717005327
+  },
+  {
+    "update": 154,
+    "mean_episode_reward": 21.881071470987735,
+    "baseline": 21.877517455633953
+  },
+  {
+    "update": 155,
+    "mean_episode_reward": 21.87220579229396,
+    "baseline": 21.875228207350734
+  },
+  {
+    "update": 156,
+    "mean_episode_reward": 21.883810519337278,
+    "baseline": 21.881646763650128
+  },
+  {
+    "update": 157,
+    "mean_episode_reward": 21.88509014335662,
+    "baseline": 21.874605245056046
+  },
+  {
+    "update": 158,
+    "mean_episode_reward": 21.881131357069062,
+    "baseline": 21.892074395335513
+  },
+  {
+    "update": 159,
+    "mean_episode_reward": 21.881015649001952,
+    "baseline": 21.878855762452826
+  },
+  {
+    "update": 160,
+    "mean_episode_reward": 21.873053821005392,
+    "baseline": 21.865384160812255
+  },
+  {
+    "update": 161,
+    "mean_episode_reward": 21.872991497456344,
+    "baseline": 21.89153160978487
+  },
+  {
+    "update": 162,
+    "mean_episode_reward": 21.871727632003598,
+    "baseline": 21.866247027992756
+  },
+  {
+    "update": 163,
+    "mean_episode_reward": 21.88213855868409,
+    "baseline": 21.88357587633471
+  },
+  {
+    "update": 164,
+    "mean_episode_reward": 21.887220478153782,
+    "baseline": 21.890056365548716
+  },
+  {
+    "update": 165,
+    "mean_episode_reward": 21.883450058343545,
+    "baseline": 21.882873201876183
+  },
+  {
+    "update": 166,
+    "mean_episode_reward": 21.890344245512797,
+    "baseline": 21.87773329729909
+  },
+  {
+    "update": 167,
+    "mean_episode_reward": 21.875964255726455,
+    "baseline": 21.877132351987214
+  },
+  {
+    "update": 168,
+    "mean_episode_reward": 21.881379095840746,
+    "baseline": 21.885179935141917
+  },
+  {
+    "update": 169,
+    "mean_episode_reward": 21.875046333108518,
+    "baseline": 21.879282811560827
+  },
+  {
+    "update": 170,
+    "mean_episode_reward": 21.886170998748735,
+    "baseline": 21.880158291319987
+  },
+  {
+    "update": 171,
+    "mean_episode_reward": 21.887095472688028,
+    "baseline": 21.886838794222857
+  },
+  {
+    "update": 172,
+    "mean_episode_reward": 21.885108275295647,
+    "baseline": 21.87135492744146
+  },
+  {
+    "update": 173,
+    "mean_episode_reward": 21.88568341581429,
+    "baseline": 21.87412129501683
+  },
+  {
+    "update": 174,
+    "mean_episode_reward": 21.88034425221929,
+    "baseline": 21.889740326881785
+  },
+  {
+    "update": 175,
+    "mean_episode_reward": 21.88361212587709,
+    "baseline": 21.894002724056858
+  },
+  {
+    "update": 176,
+    "mean_episode_reward": 21.885467359291873,
+    "baseline": 21.888333962189886
+  },
+  {
+    "update": 177,
+    "mean_episode_reward": 21.88180559170376,
+    "baseline": 21.888940991179016
+  },
+  {
+    "update": 178,
+    "mean_episode_reward": 21.876934183004767,
+    "baseline": 21.883449199451178
+  },
+  {
+    "update": 179,
+    "mean_episode_reward": 21.883080687720277,
+    "baseline": 21.87825839235842
+  },
+  {
+    "update": 180,
+    "mean_episode_reward": 21.887208706392116,
+    "baseline": 21.899097138051655
+  },
+  {
+    "update": 181,
+    "mean_episode_reward": 21.88139692205181,
+    "baseline": 21.867261141283297
+  },
+  {
+    "update": 182,
+    "mean_episode_reward": 21.883317732475554,
+    "baseline": 21.883112549736133
+  },
+  {
+    "update": 183,
+    "mean_episode_reward": 21.87767423140651,
+    "baseline": 21.870858331798562
+  },
+  {
+    "update": 184,
+    "mean_episode_reward": 21.881101359911643,
+    "baseline": 21.883157807609745
+  },
+  {
+    "update": 185,
+    "mean_episode_reward": 21.87596736840051,
+    "baseline": 21.878220106908625
+  },
+  {
+    "update": 186,
+    "mean_episode_reward": 21.882255232541176,
+    "baseline": 21.88558794201523
+  },
+  {
+    "update": 187,
+    "mean_episode_reward": 21.882909329070888,
+    "baseline": 21.880926587521284
+  },
+  {
+    "update": 188,
+    "mean_episode_reward": 21.88843858053953,
+    "baseline": 21.90123167817162
+  },
+  {
+    "update": 189,
+    "mean_episode_reward": 21.884487420857255,
+    "baseline": 21.865905761232053
+  },
+  {
+    "update": 190,
+    "mean_episode_reward": 21.884344310006473,
+    "baseline": 21.88518622721763
+  },
+  {
+    "update": 191,
+    "mean_episode_reward": 21.881397277915507,
+    "baseline": 21.88235211304253
+  },
+  {
+    "update": 192,
+    "mean_episode_reward": 21.886421584212265,
+    "baseline": 21.892538186629114
+  },
+  {
+    "update": 193,
+    "mean_episode_reward": 21.880618415552256,
+    "baseline": 21.901061469373744
+  },
+  {
+    "update": 194,
+    "mean_episode_reward": 21.882859963972503,
+    "baseline": 21.87491023326222
+  },
+  {
+    "update": 195,
+    "mean_episode_reward": 21.885824288150765,
+    "baseline": 21.86742637740526
+  },
+  {
+    "update": 196,
+    "mean_episode_reward": 21.880685291795377,
+    "baseline": 21.889019022910926
+  },
+  {
+    "update": 197,
+    "mean_episode_reward": 21.879282112304864,
+    "baseline": 21.87368512732121
+  },
+  {
+    "update": 198,
+    "mean_episode_reward": 21.886659604529257,
+    "baseline": 21.90044229048301
+  },
+  {
+    "update": 199,
+    "mean_episode_reward": 21.883248770849956,
+    "baseline": 21.884029094352925
+  }
+]
